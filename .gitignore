@@ -40,3 +40,7 @@ data/historical/*.json
 
 # Docker/local
 docker-compose.override.yml
+
+# Local Codex command/instruction files
+
+_codex_command/
